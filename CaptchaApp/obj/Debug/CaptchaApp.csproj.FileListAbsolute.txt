@@ -1,0 +1,16 @@
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\bin\Debug\CaptchaApp.exe.config
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\bin\Debug\CaptchaApp.exe
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\bin\Debug\CaptchaApp.pdb
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.csproj.AssemblyReference.cache
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\MainWindow.g.cs
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\App.g.cs
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp_MarkupCompile.cache
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp_MarkupCompile.lref
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\MainWindow.baml
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.g.resources
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.Properties.Resources.resources
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.csproj.GenerateResource.cache
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.csproj.CoreCompileInputs.cache
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.exe
+C:\Users\gimad\Desktop\CaptchaApp-master\CaptchaApp\obj\Debug\CaptchaApp.pdb
